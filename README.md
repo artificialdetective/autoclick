@@ -9,7 +9,7 @@ This program is intended for people with RSI or other injuries to their fingers.
 It greatly reduces repetitive finger clicking by doing most of the clicking for you. 
 All you're left to do is move the mouse around.
 
-HOW TO USE:
+### HOW TO USE:
 Just activate the program. (You'll only hear a bleep to indicate that it has activated)
 1. Just point the mouse cursor at what you want to click. 
  - The cursor will automatically click whenever it stops moving, except when moving down-right.
@@ -20,14 +20,12 @@ Just activate the program. (You'll only hear a bleep to indicate that it has act
 4. Press F10 to turn auto-clicking on and off.
 5. Press F10 and ESCAPE to shut the program down entirely.
 
-TIPS:
+### TIPS:
 - By default leave the mouse "parked" where it is, after a click.
 - Make a habit of looking at your target before moving the mouse. 
 
 
-
-DISCLAIMER: 
-
+### DISCLAIMER: 
 The program is only designed to reduce stress and pain in one's fingers. It will not reduce or prevent RSI symptoms in other areas and it should not be considered a cure. You would be ill advised to take the absence of pain as a sign that you can pull longer hours without rest. Should you find that using the program makes you strain your muscles more instead of less, I advise that you stop using it.
 
 This program is shared as is. You are to use the program in your own judgement and at your own risk. I do not accept responsibility for any effects this program might have on you, your computer or your files, whether the effects are positive or negative, physical, mental or digital, in life or in death.
