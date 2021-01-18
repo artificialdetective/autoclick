@@ -1,5 +1,10 @@
 # autoclick
 
+Compile source code with gcc, MinGW.
+
+Latest executable file can be downloaded from
+https://artistdetective.com/rsiautoclick.htm
+
 This program is intended for people with RSI or other injuries to their fingers. 
 It greatly reduces repetitive finger clicking by doing most of the clicking for you. 
 All you're left to do is move the mouse around.
@@ -18,4 +23,3 @@ Just activate the program. (You'll only hear a bleep to indicate that it has act
 TIPS:
 - By default leave the mouse "parked" where it is, after a click.
 - Make a habit of looking at your target before moving the mouse. 
-
