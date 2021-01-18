@@ -26,7 +26,7 @@ TIPS:
 
 
 
-DISCLAIMER:
+DISCLAIMER: 
 The program is only designed to reduce stress and pain in one's fingers. It will not reduce or prevent RSI symptoms in other areas and it should not be considered a cure. You would be ill advised to take the absence of pain as a sign that you can pull longer hours without rest. Should you find that using the program makes you strain your muscles more instead of less, I advise that you stop using it.
 
 This program is shared as is. You are to use the program in your own judgement and at your own risk. I do not accept responsibility for any effects this program might have on you, your computer or your files, whether the effects are positive or negative, physical, mental or digital, in life or in death.
